@@ -22,17 +22,9 @@ Frontend: React with Vite, Tailwind CSS for styling
 Backend: Node.js, Express.js
 Database: MongoDB (using Mongoose for schema management)
 Payment: Integration with payment gateways (e.g., Stripe, PayPal)
-Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/ecommerce-website.git
-cd ecommerce-website
 Install dependencies:
 
-bash
-Copy code
 # In the project root directory
 npm install
 cd frontend
